@@ -13,6 +13,16 @@
  - 20181796 김민준
  - 20181602 최창수
 
+
+## Project Background
+- ### 필요성
+  - OOO
+  - OOO
+- ### 기존 해결책의 문제점
+  - OOO
+  - OOO
+
+  
 # jetson-nano
 This project aims to control excavation equipment and forklifts through hand gestures. The project adapt modern deep learning using hand gesture recognition and implemented tilt pose.
 This project has tested on Jetsno NANO with the following environments:
