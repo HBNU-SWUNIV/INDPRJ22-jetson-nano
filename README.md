@@ -71,9 +71,6 @@ This project has tested on Jetsno NANO with the following environments:
 - a companion robot
  - High-five, stop, and take pictures. You can express various directions
 <img src="https://user-images.githubusercontent.com/77065758/206336401-a56fdcad-7dc5-427c-9a91-fcf9950dbb07.jpg"  width="200" height="160"/>
- 
-#### In addition to heavy equipment, I think it can be applied in various ways.  
-
 
 ### Related technology
 - "Samsung Electronics' All-in-One PC" that recognizes hand movements and works
