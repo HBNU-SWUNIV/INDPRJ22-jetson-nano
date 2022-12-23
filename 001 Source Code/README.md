@@ -5,6 +5,8 @@
  - trt_pose 0.0.1
  - pytorch 1.0.0a0
  - sklearn 0.24.2
+
+
 ### Prerequisites
 **Step 1 - Download PyTorch and Torchvision for Jetson nano. [link](https://forums.developer.nvidia.com/t/pytorch-for-jetson/72048)**   
 **Step 2 - Install [torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt)**
